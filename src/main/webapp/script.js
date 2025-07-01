@@ -1,5 +1,7 @@
 
-  
+<<<<<<< HEAD
+=======
+>>>>>>> 43a05617721ea43a1edf9c37b7a4226a21ff4bf4
   document.addEventListener("DOMContentLoaded", function () {
       var weatherIcon = document.getElementById("weather-icon");
       var valElement = document.getElementById("wc");
